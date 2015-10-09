@@ -5,7 +5,7 @@
 2. During this exercise, you will switch "index.html" to use "scripts/debug.js".  Use your newly learned tools to identify, and correct, the issues with this code.  Your goal is to log each function to the console, in order.
 
 Like this:
-
+```
 [Log] Starting (debug.js, line 63)
 [Log] inside function1 (debug.js, line 55)
 [Log] inside function2 (debug.js, line 50)
@@ -17,3 +17,4 @@ Like this:
 [Log] inside function8 (debug.js, line 10)
 [Log] inside function9 (debug.js, line 4)
 [Log] The end (debug.js, line 5)
+```
