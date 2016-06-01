@@ -1,6 +1,6 @@
 # Javascript Debugging
 
-The enclosed `app.js` has some pretty ugly code. Resist properly indenting and formatting it &mdash; for right now we just want to get it to run!
+The enclosed `app.js` has some pretty ugly code. We want to get it to run!
 
 This code uses some concepts that you haven't seen yet. However, it still follows the same rules as all the Javascript we've seen so far, and so you can debug it the same way.
 
